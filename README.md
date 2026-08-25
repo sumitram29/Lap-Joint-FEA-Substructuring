@@ -35,6 +35,6 @@ Solving large-scale assemblies with complex interfaces (like rivets or bolts) in
 
 ## 📁 Repository Structure
 * `Plot_Coupled.m`: Main solver script for coupling the matrices and plotting the recovered mode shapes.
-* `Modelmats.mat`: Reduced Mass and Stiffness matrices exported from Abaqus.
+* `Modelmats.mat`: Reduced Mass and Stiffness matrices exported from Abaqus.**[Download from Google Drive here](https://drive.google.com/file/d/17thj_iQYG1lKYA8i_c0Pf7vQpuQbFaMx/view?usp=drive_link)** (File too large for GitHub).
 * `Nodes.dat` / `Elements.dat`: Abaqus mesh connectivity files used for visual recovery.
 * `Bottom_Nodes.dat` / `Bottom_Elements.dat`: Secondary mesh data.
